@@ -2,9 +2,7 @@
 
 Source: https://github.com/makeitrealcamp/ejercicios-javascript
 
-Esta es una lista de ejercicios de JavaScript para personas que están empezando con programación. Como requisito para hacer estos ejercicios debes conocer conceptos básicos de JavaScript como tipos y operadores, variables, condicionales, ciclos, strings, arreglos, funciones y objetos literales. Si aún no los conoces te recomendamos primero ver [los videos de esta lista en YouTube](https://www.youtube.com/playlist?list=PLxyfMWnjW2kvB-INxVmGBjdqdCjxOjV8A).
-
-Los ejercicios son un trabajo en progreso constante. Para contribuir puedes abrir un [Issue](https://github.com/makeitrealcamp/ejercicios-javascript/issues) (en caso de que quieras reportar un problema) o un [Pull Request](https://github.com/makeitrealcamp/ejercicios-javascript/pulls) (en caso de que quieras contribuir un cambio o un ejercicio).
+Esta es una lista de ejercicios de JavaScript para personas que están empezando con programación. Como requisito para hacer estos ejercicios debes conocer conceptos básicos de JavaScript como tipos y operadores, variables, condicionales, ciclos, strings, arreglos, funciones y objetos literales. 
 
 ## 1. Contraseña válida
 
