@@ -15,7 +15,7 @@ Escribir una función llamada `contrasenaValida` que reciba un string y retorne 
 console.log(contrasenaValida("2Fj(jjbFsuj")) // true
 console.log(contrasenaValida("eoZiugBf&g9")) // true
 console.log(contrasenaValida("hola")) // false
-console.log(contrasenaValuda("")) // false
+console.log(contrasenaValida("")) // false
 ```
 
 ## 2. Calcular impuestos
