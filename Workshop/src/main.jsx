@@ -1,20 +1,7 @@
 // escribe tu respuesta acá
 
-// function contrasenaValida(contrasena){
-//   if(contrasena === '2Fj(jjbFsuj' || contrasena === 'eoZiugBf&g9'){
-//     console.log('Contrasena correcta');
-//   } else {
-//     console.log('Contrasena incorrecta');
-//   }
-// }
-
-const contrasenaValida = (contrasena) => 
-(contrasena === '2Fj(jjbFsuj' || contrasena === 'eoZiugBf&g9')?
-console.log('Contrasena correcta'): 
-console.log('Contrasena incorrecta');
-
 // código de prueba
-console.log(contrasenaValida("2Fj(jjbFsuj")) // true
-console.log(contrasenaValida("eoZiugBf&g9")) // true
-console.log(contrasenaValida("hola")) // false
-console.log(contrasenaValida("")) // false
+console.log(calcularImpuestos(18, 1000)) // 400
+console.log(calcularImpuestos(40, 10000)) // 4000
+console.log(calcularImpuestos(17, 5000)) // 0
+console.log(calcularImpuestos(30, 500)) // 0
