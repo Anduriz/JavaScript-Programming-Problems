@@ -2,13 +2,11 @@
 
 // function contrasenaValida(contrasena){
 //   if(contrasena === '2Fj(jjbFsuj' || contrasena === 'eoZiugBf&g9'){
-//     return true;
+//     console.log('Contrasena correcta');
 //   } else {
-//     return false;
+//     console.log('Contrasena incorrecta');
 //   }
 // }
-
-// alternativa
 
 const contrasenaValida = (contrasena) => 
 (contrasena === '2Fj(jjbFsuj' || contrasena === 'eoZiugBf&g9')?
